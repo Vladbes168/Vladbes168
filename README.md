@@ -3,14 +3,17 @@
  ![Gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ![Tea](https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png)
 ![Time](https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png)
-<img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" width="200">&nbsp;
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="230">&nbsp;
-
+<img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" width="220">&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+<br><br>
 ### Tech Stack 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)   
+
 ![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3&logoColor=1572B6) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap&logoColor=563D7C)  
+
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github) ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)  
+
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333?style=flat&logo=visual-studio-code&logoColor=007ACC) 
 
 
